@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ea998f5686e87c945a16e15efe43b9b0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gotham Pro Narrow
+  fontNames:
+  - Gotham Pro Narrow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1a0a620f053a48a42bc78aca7a5fae7b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
